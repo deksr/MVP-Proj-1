@@ -1,0 +1,95 @@
+@import url(http://fonts.googleapis.com/css?family=Bad+Script);
+@import url(http://fonts.googleapis.com/css?family=Lekton);
+@import url(http://fonts.googleapis.com/css?family=Oswald:300);
+
+
+h1{
+		font-family: 'Oswald', sans-serif;
+	margin-left: 200px;
+	color:red;
+	position:absolute;
+	top:100px;
+left:340px;
+
+}
+
+
+h4{
+	font-family: 'Oswald', sans-serif;
+margin-left: 230px;
+position: absolute;
+top:100px;
+color:grey;
+
+}
+
+
+
+img{
+	width:150px;
+	height:200px;
+	margin:10px;
+}
+
+
+
+table{
+	margin-left:160px;
+	position: absolute;
+	top:170px;
+}
+
+
+
+tr{
+		font-family: 'Oswald', sans-serif;
+	text-align: center;
+		color:grey;
+
+}
+
+
+.colorbox{
+	background-color: rgb(255, 232, 238);
+	width:300px;
+	height:390px;
+	padding:20px;
+	position:absolute;
+	top:210px;
+	left:530px;
+	font-family: 'Lekton', sans-serif;
+}
+
+
+
+body{
+		font-family: 'Bad Script', cursive;
+}
+
+
+.tax-flex{
+	width:30px;
+}
+
+
+
+.tipbutton {
+    background-color:rgb(9,164,19);
+    border-radius: 10px 10px 10px 10px;
+	font-family: 'Lekton', sans-serif;   
+}
+
+
+
+.takecash, .returncash{
+	width:40px;
+}
+
+
+
+#display{
+    width: 250px;
+    height: 180px;
+    overflow: auto;
+}
+
