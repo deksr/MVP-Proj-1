@@ -1,4 +1,4 @@
-console.log("Javascript file linked")
+console.log("Javascript file linked");
 
 //-------template-the constructor
 var Menu = function Menu(name, price) {
